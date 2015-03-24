@@ -12,7 +12,7 @@ Expected outcome: a list of things to do that improve the navigation / structure
 
 Retrospective 1st Day:
 
-Johann: Let's talk also about how to talk to the gut feeling and passion of the people. Explore ways of people evaluated what happened. Let's spend a bit more time on how to make really simple things that can be used tomorrow to create usable software design.
+Johan: Let's talk also about how to talk to the gut feeling and passion of the people. Explore ways of people evaluated what happened. Let's spend a bit more time on how to make really simple things that can be used tomorrow to create usable software design.
 
 Peter: I was aware we had the constraints, we didn't have to find about IDEs, but we did. We should do something real, try doing some code as well.
 
@@ -37,7 +37,7 @@ Erik: What I liked about it today, getting it on the same level, focusing on usa
 One thing we do now, is that we want to do something different than an Open Space, but I don't feel the difference from Open Space. 
 A thing I would do to improve: instead of trying to come up with new things, try to link existing things better. We expanded on an existing idea, but it feels like what we did was scratching the surface, building an change request for Jet Brains.
 
-Johann: I appreaciate having seen your code (Alex), I would like tomorrow someone to see the code I worked on. I would like to have my code torn appart, while focusing on software design.
+Johan: I appreaciate having seen your code (Alex), I would like tomorrow someone to see the code I worked on. I would like to have my code torn appart, while focusing on software design.
 Always when you improve something, you make some other parts worse. The ideas we came-up today are valuable to me. 
 I am concerned that my coleagues are no interested in what we are doing now. I would like to find a bit of time during the evening about this. Maybe my expectation are not high enough. 
 
