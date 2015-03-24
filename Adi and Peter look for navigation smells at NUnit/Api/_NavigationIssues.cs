@@ -2,7 +2,7 @@ using System;
 
 namespace NUnit.Framework
 {
-	public class EmptyClass
+	public class _NavigationIssues
 	{
 		// Issue: Inconsistent naming in the package Api. Things belong together, but sound like different things.
 		// Navigation Smell: The class name is not revealing intent relative to its scope.
